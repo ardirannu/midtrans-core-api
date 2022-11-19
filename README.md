@@ -18,7 +18,7 @@ In this case the payment is made with the BCA bank, the product details are made
 | `payment_method` | `string` | **Required**. Ex: bank_transfer   |
 
 
-## After making a payment
+#### After making a payment
 #### Post Midtrans Notification Response that appears in the webhook.
 
 ```http
